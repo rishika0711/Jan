@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+/* Practise set 2 */
+ul{
+    background-color: black;
+    color: white;
+}
+.main{
+    background-color: red;
+    width: 100px;
+}
+.bg{
+    width: 344px;
+    height: 334px;
+    background-image: url('gym.jpg');
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-size: 341px 341px;
+}
+/* body{
+    background-image: url("gym.jpg");
+    background-repeat: no-repeat;
+   background-size:cover ;
+}
+.red{
+    background-color: red;
+    color: white;
+}  */
