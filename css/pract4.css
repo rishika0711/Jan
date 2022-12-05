@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.navbar{
+    height: 55px;
+    background-color: aqua;
+    color: rgb(46, 43, 43);
+   
+}
+li{
+    display: inline;
+    
+}
+.right{
+    height: 60vh;
+    width: 50%;
+    background-color: red;
+    color: white;
+    display: inline-block;
+}
+.left{
+    height: 60vh;
+    width: 50%; 
+    background-color: blueviolet;
+    color: white;
+    display: inline-block;
+}
+.footer{
+    
+    background-color: blue;
+}

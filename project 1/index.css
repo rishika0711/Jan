@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    height:5vh ;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+header{
+    height: 10vh;
+    background-color: black;
+}
+nav ul{
+    display: flex;
+    justify-content: flex-start;
+    background-color: blue;
+}
+nav ul li{
+    /* color: white; */
+    list-style: none;
+   
+    
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;  
+}
